@@ -1,4 +1,6 @@
-# Grape-Theme
+## keongmin's 
+
+<!-- # Grape-Theme
 
 ![home](./assets/img/home.png)
 
@@ -205,3 +207,4 @@ You can confirm how to draw tags at [here](https://grape-theme.netlify.com/2019/
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
+ -->
